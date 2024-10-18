@@ -8,6 +8,7 @@ FreeDogs is a Node.js application that interacts with the FreeDogs bot API. It a
 - Coin collection
 - Task completion
 - Multi-account support
+- Proxy Support
 
 ## Prerequisites
 
